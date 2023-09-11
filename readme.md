@@ -125,4 +125,3 @@ Amandeep Bhardwaj:- Consolidated data across semesters into one dataset to enabl
 
 Team Contribution:- Our team worked together, but each focused on their own method. To keep things simple, we used the same data frame name “all_data” for consistency. As a group, we brainstormed the introduction, data prep, and conclusion sections. The methods and findings were individual contributions tied together through the shared report.
 
-![image](https://github.com/atlurisaiarvind/Transfer-Student-Analysis/assets/144745008/479fab9d-da37-43bf-888a-8de9724d1146)
